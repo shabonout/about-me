@@ -4,7 +4,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-Hi there! I’m Shab, and I’m passionate about unraveling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience igniting innovation in large organizations, I’m ready to embark on a new adventure!
+Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience igniting innovation in large organizations, I’m ready to embark on a new adventure!
 
 <br>
 
