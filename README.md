@@ -10,9 +10,9 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 
 ## Who am I?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Cosmopolitan (Italian and Swedish) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️ MSc in Data Science + BSc in Software Engineering <br>
 &nbsp;&nbsp;&nbsp;🛠️ 18 months at Volvo Cars <br> 
-🏛️ MSc in Data Science + BSc in Software Engineering <br>
+🌎 Cosmopolitan 
 
 <br>
 
