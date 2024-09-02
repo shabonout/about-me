@@ -18,6 +18,7 @@ Hi there! I’m Shab, and I’m passionate about unraveling the complexities of 
 
 ## But also...
 
+👥 People gatherer <br>
 ✨ Star hunter <br>
 &nbsp;&nbsp;&nbsp; 💬 Enthusiastic supporter <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏃🏻‍♂️ Spontaneous organizer <br>
