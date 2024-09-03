@@ -4,24 +4,24 @@
 
 ## 🚀 Welcome to My GitHub!
 
-Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience igniting innovation in large organizations, I’m ready to embark on a new adventure!
+Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
 
 <br>
 
 ## Who am I?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️ MSc in Data Science + BSc in Software Engineering <br>
-&nbsp;&nbsp;&nbsp;🛠️ 18 months at Volvo Cars <br> 
-🌎 Cosmopolitan 
-
-<br>
+🏛️ Software Engineer with MSc &nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;--+&nbsp;&nbsp;-+&nbsp;&nbsp;&nbsp;-&nbsp;-&nbsp;--&nbsp;+ &nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;++&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+<br> 
+🛠️ 18 months at Volvo Cars <br> 
+&nbsp;💡 Strategic <br>
+&nbsp;&nbsp;&nbsp;🌎 Cosmopolitan 
 
 ## But also...
 
-👥 People gatherer <br>
-✨ Star hunter <br>
-&nbsp;&nbsp;&nbsp; 💬 Enthusiastic supporter <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏃🏻‍♂️ Spontaneous organizer <br>
+&nbsp;&nbsp;&nbsp;👥 People gatherer <br>
+&nbsp;✨ Star hunter <br>
+💬 Enthusiastic supporter <br>
+🏃🏻‍♂️ Spontaneous organizer --+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;-&nbsp;--&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;--+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+
+<br> 
 
 
 <br>
