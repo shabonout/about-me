@@ -44,7 +44,7 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 # Let’s Connect!
 I’d love to connect. Explore my projects, check out my work, and feel free to reach out if you’re interested in collaborating or just talking tech.
 
-[<img src="https://raw.githubusercontent.com/shabonout/about-me/88112a86b409bd26995a701d38b2dc2472607134/LinkedIn_icon.svg" alt="Connect with me" height="32" />](https://www.linkedin.com/in/shab-pompeiano)
+[<img src="https://raw.githubusercontent.com/shabonout/about-me/88112a86b409bd26995a701d38b2dc2472607134/LinkedIn_icon.svg" alt="Connect with me" height="46" />](https://www.linkedin.com/in/shab-pompeiano)
 
 Thanks for visiting, and I hope you find something here that inspires you!
 
