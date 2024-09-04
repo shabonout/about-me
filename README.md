@@ -12,6 +12,7 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 
 - ⏳ [OneclickCV](): "one-click" computer vision platform, with deployment 
 - ⏳ [Eduverse](https://github.com/shabonout/eduverse): An open- accessible educational project
+- 🔜 [StarSLAM](): A localization algorithm which uses images of the starry sky for localization. 
 - ✅ [Kiwicar](https://github.com/shabonout/group-08): Autonomous parallel parking and obstacle avoidance Smartcar
 - ✅ [Trashoon](https://github.com/shabonout/trashoon): winning project of CS&E Hackathon 2019 
 
