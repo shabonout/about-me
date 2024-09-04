@@ -40,9 +40,10 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 
 
 ### 🧩 Making Complexity Simple
+As a lead developer, I've developed a deep interest in effectively communicating with various stakeholders i.e. potential users, key decision-makers, upper management, and colleagues- to ensure project success. I've come to appreciate how the presentation of an idea can be tailored to different audiences, and how the right words can be the difference between driving innovation forward or leaving it stalled.
 
 
-### 🤖 Digital Communication
+### ✍ Digital Communication
 
 
 <br>
