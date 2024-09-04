@@ -25,8 +25,7 @@ Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities
 
 ### 🔜 [StarSLAM]()
 - **What**: Localization algorithm using starry sky images.
-- **Role**: No contributions.
-
+  
 ### ✅ [Kiwicar](https://github.com/shabonout/group-08)
 - **What**: Autonomous smartcar for parallel parking and obstacle avoidance.
 - **Role**: Project Manager (University Project)
