@@ -4,7 +4,7 @@
 
 ## 🚀 Welcome to My GitHub!
 
-Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities of technology and making them simple, intuitive, and impactful. With two years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
+Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities of technology and making them simple, intuitive, and impactful. With one and a half years of experience pushing innovation in large organizations, I’m ready to embark on a new adventure!
 
 <br>
 
@@ -46,7 +46,7 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 ## Who am I?
 
 🏛️ Software Engineer with MSc <br> 
-🛠️ 18 months at Volvo Cars <br> 
+🛠️ 1.5 years at Volvo Cars <br> 
 &nbsp;💡 Strategic <br>
 &nbsp;&nbsp;&nbsp;🌎 Cosmopolitan 
 
