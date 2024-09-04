@@ -1,6 +1,14 @@
-# Simplicity is key.
+<h1 align="center" style="">Hi 👋, I'm Shab! </h1>
 
 <br>
+
+[<p align="center"><img  />][linkedin]
+[<kbd><img  loading="lazy" alt="Linkedin" width="56px" src="https://raw.githubusercontent.com/shabonout/about-me/88112a86b409bd26995a701d38b2dc2472607134/LinkedIn_icon.svg" /></kbd>][linkedin]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<kbd><img loading="lazy" alt="Github" width="56px" src="https://raw.githubusercontent.com/shabonout/about-me/9b75b02d59aabed35495b4c144877e5c75ac51bf/github.svg" /></kbd></p>][github]
+<br /><br />
+
+[linkedin]: https://www.linkedin.com/in/shab-pompeiano
+[github]: https://github.com/shabpompeiano
 
 ## 🚀 Welcome to My GitHub!
 
@@ -9,7 +17,7 @@ Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities
 <br>
 
 ## My projects
-
+  
 ### 🏃🏻‍♂️ [OneclickCV]()
 - **What**: "One-click" computer vision platform with deployment.
 - **Role**: Creator
@@ -82,7 +90,7 @@ The other essential factor is how you present and sell an idea. The way stories 
 # Let’s Connect!
 I’d love to connect. Explore my projects, check out my work, and feel free to reach out if you’re interested in collaborating or just talking tech.
 
-# 👉 &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/shabonout/about-me/88112a86b409bd26995a701d38b2dc2472607134/LinkedIn_icon.svg" alt="Connect with me" height="46" />](https://www.linkedin.com/in/shab-pompeiano) &nbsp;&nbsp; [<img src="https://raw.githubusercontent.com/shabonout/about-me/9b75b02d59aabed35495b4c144877e5c75ac51bf/github.svg" alt="Connect with me" height="46" />](https://github.com/shabpompeiano)
+[<p align="center"> # 👉 &nbsp;&nbsp; <kbd>[<img src="https://raw.githubusercontent.com/shabonout/about-me/88112a86b409bd26995a701d38b2dc2472607134/LinkedIn_icon.svg" alt="Connect with me" height="46" />](https://www.linkedin.com/in/shab-pompeiano)</kbd> &nbsp;&nbsp; <kbd>[<img src="https://raw.githubusercontent.com/shabonout/about-me/9b75b02d59aabed35495b4c144877e5c75ac51bf/github.svg" alt="Connect with me" height="46" />](https://github.com/shabpompeiano)</kbd> </p>]
 
 Thanks for visiting, and I hope you find something here that inspires you!
 
