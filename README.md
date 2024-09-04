@@ -19,7 +19,7 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 
 ## Who am I?
 
-🏛️ Software Engineer with MSc &nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;--+&nbsp;&nbsp;-+&nbsp;&nbsp;&nbsp;-&nbsp;-&nbsp;--&nbsp;+ &nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;++&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+<br> 
+🏛️ Software Engineer with MSc <br> 
 🛠️ 18 months at Volvo Cars <br> 
 &nbsp;💡 Strategic <br>
 &nbsp;&nbsp;&nbsp;🌎 Cosmopolitan 
@@ -29,8 +29,7 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 &nbsp;&nbsp;&nbsp;👥 People gatherer <br>
 &nbsp;✨ Star hunter <br>
 💬 Enthusiastic supporter <br>
-🏃🏻‍♂️ Spontaneous organizer --+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;-&nbsp;--&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;--+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+
-<br> 
+🏃🏻‍♂️ Spontaneous organizer <br> 
 
 
 <br>
