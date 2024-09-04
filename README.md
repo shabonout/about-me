@@ -10,11 +10,36 @@ Hi there! <br>I’m Shab, and I’m passionate about unraveling the complexities
 
 ## My projects
 
-- ⏳ [OneclickCV](): "one-click" computer vision platform, with deployment 
-- ⏳ [Eduverse](https://github.com/shabonout/eduverse): An open- accessible educational project
-- 🔜 [StarSLAM](): A localization algorithm which uses images of the starry sky for localization. 
-- ✅ [Kiwicar](https://github.com/shabonout/group-08): Autonomous parallel parking and obstacle avoidance Smartcar
-- ✅ [Trashoon](https://github.com/shabonout/trashoon): winning project of CS&E Hackathon 2019 
+### ⏳ [OneclickCV]()
+- **What**: "One-click" computer vision platform with deployment.
+- **Role**: Creator
+- **Key Contributions**:
+  - Developed a full end-to-end computer vision system for automated object labeling and detection in real-time applications.
+  - Deployed the system on Google Cloud Platform.
+
+### ⏳ [Eduverse](https://github.com/shabonout/eduverse)
+- **What**: Open-access educational project focused on making learning AI intuitive and accessible.
+- **Role**: Creator
+- **Key Contributions**:
+  - Worked on making AI education as accessible and intuitive as possible.
+
+### 🔜 [StarSLAM]()
+- **What**: Localization algorithm using starry sky images.
+- **Role**: No contributions.
+
+### ✅ [Kiwicar](https://github.com/shabonout/group-08)
+- **What**: Autonomous smartcar for parallel parking and obstacle avoidance.
+- **Role**: Project Manager (University Project)
+- **Key Contributions**:
+  - Managed the project and coordinated the development team.
+  - Led the creation of the parallel parking and obstacle avoidance systems.
+
+### ✅ [Trashoon](https://github.com/shabonout/trashoon)
+- **What**: Winning project of CS&E Hackathon 2019.
+- **Role**: Creator
+- **Key Contributions**:
+  - Designed and developed key features of the project.
+  - Successfully presented the project, leading to its victory.
 
 <br>
 
