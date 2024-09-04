@@ -10,20 +10,20 @@ Hi there! <br>I’m Shab, and I’m passionate about untangling the complexities
 
 ## My projects
 
-### ⏳ [OneclickCV]()
+### 🏃🏻‍♂️ [OneclickCV]()
 - **What**: "One-click" computer vision platform with deployment.
 - **Role**: Creator
 - **Key Contributions**:
   - Developed a full end-to-end computer vision system for automated object labeling and detection in real-time applications.
   - Deployed the system on Google Cloud Platform.
 
-### ⏳ [Eduverse](https://github.com/shabonout/eduverse)
+### 🏃🏻‍♂️ [Eduverse](https://github.com/shabonout/eduverse)
 - **What**: Open-access educational project focused on making learning AI intuitive and accessible.
 - **Role**: Creator
 - **Key Contributions**:
   - Worked on making AI education as accessible and intuitive as possible.
 
-### 🔜 [StarSLAM]()
+### ⏳ [StarSLAM]()
 - **What**: Localization algorithm using starry sky images.
   
 ### ✅ [Kiwicar](https://github.com/shabonout/group-08)
